@@ -42,7 +42,8 @@ fn batch_convert_and_write(input_file_path: &str, output_file_path: &str) {
 }
 
 fn main() {
-    let input_file_path = "D:/vscodecoding/Rustworkspace/SubnetConverter/src/ak_overwatch.txt";
-    let output_file_path = "output.txt";
+    let input_file_path = "D:/vscodecoding/Rustworkspace/SubnetConverter/src/Example_Input.txt";
+    let output_file_path = "Example_Output.txt";
     batch_convert_and_write(input_file_path, output_file_path);
 }
+

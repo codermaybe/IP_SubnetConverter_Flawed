@@ -1,5 +1,6 @@
 # SubnetConverter_Flawed
-this is a simple program written by chatgpt,for the purpose of convert ip and subnet into another format
+this is a simple program written by chatgpt,for the purpose of convert ip and subnet into another format.
+
 the program can convert string like "192.168.1.1 255.255.255.0" into "192.168.1.1/24"
 
 # How To USE
